@@ -1,3 +1,9 @@
 .manrope-font {
     font-family: 'Manrope', sans-serif;
 }
+
+@media screen and (max-width: 768px) {
+    .carousel-image img {
+        height: 250px;
+    }
+}
